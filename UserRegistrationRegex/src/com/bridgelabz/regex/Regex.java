@@ -8,5 +8,6 @@ public class Regex {
 		user.lastName("Phad");
 		user.emailaddress("prashantphad2018@gmail.com");
 		user.phoneNo("91 9970899057");
+		user.passRule1("123asASD");
 	}
 }
